@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "validator": "^13.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "taskapp",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "connect.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
